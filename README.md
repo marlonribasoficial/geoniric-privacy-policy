@@ -1,6 +1,7 @@
 # Geoniric — Privacy Policy · Política de Privacidade
 
 **Support:** questions or problems with Geoniric? Write to marlonmribas.ms@gmail.com
+
 **Suporte:** dúvidas ou problemas com o Geoniric? Escreva para marlonmribas.ms@gmail.com
 
 [English](#english) · [Português](#português)
