@@ -1,79 +1,6 @@
 # Geoniric — Política de Privacidade · Privacy Policy
 
-[Português](#português) · [English](#english)
-
----
-
-## Português
-
-**Última atualização:** 2 de novembro de 2026
-
-Geoniric não sabe quem você é: a obra não pede nome, e-mail nem conta própria, e o que ela guarda não aponta para você.
-
-### O que a obra usa no seu aparelho
-
-Para a obra responder a você, o Apple Vision Pro usa quatro coisas. Tudo é processado no aparelho, durante a visita, e nada disso é gravado nem enviado.
-
-| O que | Para quê | Permissão do sistema |
-| --- | --- | --- |
-| Movimento das mãos | Suas mãos agem dentro da obra | Rastreamento das mãos |
-| Forma do ambiente ao seu redor (uma malha 3D, nunca a imagem da câmera) | O ambiente faz parte da obra | Percepção do ambiente |
-| Posição e direção da cabeça | Andar pela obra e saber para onde você olha | Nenhuma: é do próprio espaço imersivo |
-| Para onde você olha | Mostrar, com um brilho, os objetos com que você pode interagir | Nenhuma: o sistema desenha o brilho fora do app, e o Geoniric não recebe o seu olhar |
-
-Você pode negar ou retirar as permissões nos Ajustes do aparelho. Sem elas, partes da obra não respondem.
-
-Geoniric não tem acesso à câmera, ao microfone, à sua localização nem ao seu olhar: o sistema só diz ao app o que você escolheu com o gesto de pinça.
-
-### O que a obra guarda na nuvem
-
-Geoniric é uma obra que continua: cada visita deixa um rastro, e a próxima começa de onde a anterior parou. Esse rastro fica no banco público do iCloud (CloudKit, da Apple), no container da obra.
-
-| Registro | O que guarda | Quando |
-| --- | --- | --- |
-| Mundos | O que você criou e transformou nos mundos da obra durante a visita: forma, lugar, giro e tamanho dos objetos | Enquanto você interage e ao sair |
-| Estado da obra | O mundo em que a visita está e o ponto da obra onde ela parou | Ao entrar, ao andar e ao sair |
-
-Cada registro leva um código de visita sorteado ao entrar, que não tem relação com você e muda a cada visita. Nenhum registro guarda nome, e-mail, imagem, voz, medidas do corpo ou do ambiente.
-
-Para gravar, o sistema usa a sua conta iCloud. A Apple anexa a cada registro um identificador próprio deste app, gerado por ela: ele não revela o seu Apple ID nem o seu nome para nós. Sem conta iCloud, você visita a obra e vê o que os outros deixaram, mas a sua visita não é gravada.
-
-O armazenamento segue a [política de privacidade da Apple](https://www.apple.com/legal/privacy/).
-
-### Quem vê o que você deixa
-
-Todos os visitantes. A obra é uma só e compartilhada: o que você cria e transforma passa a fazer parte dela, e quem vier depois encontra.
-
-Nenhum visitante sabe quem deixou o quê, e nós também não conseguimos ligar o que foi deixado a uma pessoa. Outro visitante não pode apagar nem mudar o que você deixou: no banco público, só quem criou um registro pode alterá-lo.
-
-### O que fica só no seu aparelho
-
-Apenas marcas dos tutoriais que você já viu, para eles não aparecerem de novo. Elas somem quando você apaga o app.
-
-### O que a obra não faz
-
-- Não mostra anúncios.
-- Não rastreia você em outros apps ou sites.
-- Não usa ferramentas de análise, medição de uso ou relatórios de terceiros.
-- Não vende, aluga nem compartilha dados com ninguém. O único serviço externo é o iCloud da Apple, que guarda a obra.
-
-Se você permitir nos Ajustes do aparelho, a Apple pode compartilhar conosco relatórios de falhas e números de uso sem identificação. Isso é da Apple, e você liga ou desliga lá.
-
-### Seus direitos e como apagar
-
-Você pode pedir informações sobre os dados tratados, correção ou exclusão, como preveem a Lei Geral de Proteção de Dados (LGPD) e leis equivalentes, pelo contato no fim desta página.
-
-Como os registros não levam seu nome e cada visita tem um código sorteado, não há como achar o que é seu entre o que é de todos: tudo passa a fazer parte da obra compartilhada.
-
-Se preferir que a sua visita não deixe rastro, entre na obra sem estar conectado ao iCloud: você vê a obra, e nada é gravado. Apagar o app remove as marcas dos tutoriais.
-
-### Crianças
-
-Geoniric não coleta dados pessoais de ninguém, incluindo crianças.
-
-### Contato
-
-Dúvidas e pedidos: marlonmribas.ms@gmail.com.
+[English](#english) · [Português](#português)
 
 ---
 
@@ -147,3 +74,76 @@ Geoniric collects no personal data from anyone, children included.
 ### Contact
 
 Questions and requests: marlonmribas.ms@gmail.com.
+
+---
+
+## Português
+
+**Última atualização:** 2 de novembro de 2026
+
+Geoniric não sabe quem você é: a obra não pede nome, e-mail nem conta própria, e o que ela guarda não aponta para você.
+
+### O que a obra usa no seu aparelho
+
+Para a obra responder a você, o Apple Vision Pro usa quatro coisas. Tudo é processado no aparelho, durante a visita, e nada disso é gravado nem enviado.
+
+| O que | Para quê | Permissão do sistema |
+| --- | --- | --- |
+| Movimento das mãos | Suas mãos agem dentro da obra | Rastreamento das mãos |
+| Forma do ambiente ao seu redor (uma malha 3D, nunca a imagem da câmera) | O ambiente faz parte da obra | Percepção do ambiente |
+| Posição e direção da cabeça | Andar pela obra e saber para onde você olha | Nenhuma: é do próprio espaço imersivo |
+| Para onde você olha | Mostrar, com um brilho, os objetos com que você pode interagir | Nenhuma: o sistema desenha o brilho fora do app, e o Geoniric não recebe o seu olhar |
+
+Você pode negar ou retirar as permissões nos Ajustes do aparelho. Sem elas, partes da obra não respondem.
+
+Geoniric não tem acesso à câmera, ao microfone, à sua localização nem ao seu olhar: o sistema só diz ao app o que você escolheu com o gesto de pinça.
+
+### O que a obra guarda na nuvem
+
+Geoniric é uma obra que continua: cada visita deixa um rastro, e a próxima começa de onde a anterior parou. Esse rastro fica no banco público do iCloud (CloudKit, da Apple), no container da obra.
+
+| Registro | O que guarda | Quando |
+| --- | --- | --- |
+| Mundos | O que você criou e transformou nos mundos da obra durante a visita: forma, lugar, giro e tamanho dos objetos | Enquanto você interage e ao sair |
+| Estado da obra | O mundo em que a visita está e o ponto da obra onde ela parou | Ao entrar, ao andar e ao sair |
+
+Cada registro leva um código de visita sorteado ao entrar, que não tem relação com você e muda a cada visita. Nenhum registro guarda nome, e-mail, imagem, voz, medidas do corpo ou do ambiente.
+
+Para gravar, o sistema usa a sua conta iCloud. A Apple anexa a cada registro um identificador próprio deste app, gerado por ela: ele não revela o seu Apple ID nem o seu nome para nós. Sem conta iCloud, você visita a obra e vê o que os outros deixaram, mas a sua visita não é gravada.
+
+O armazenamento segue a [política de privacidade da Apple](https://www.apple.com/legal/privacy/).
+
+### Quem vê o que você deixa
+
+Todos os visitantes. A obra é uma só e compartilhada: o que você cria e transforma passa a fazer parte dela, e quem vier depois encontra.
+
+Nenhum visitante sabe quem deixou o quê, e nós também não conseguimos ligar o que foi deixado a uma pessoa. Outro visitante não pode apagar nem mudar o que você deixou: no banco público, só quem criou um registro pode alterá-lo.
+
+### O que fica só no seu aparelho
+
+Apenas marcas dos tutoriais que você já viu, para eles não aparecerem de novo. Elas somem quando você apaga o app.
+
+### O que a obra não faz
+
+- Não mostra anúncios.
+- Não rastreia você em outros apps ou sites.
+- Não usa ferramentas de análise, medição de uso ou relatórios de terceiros.
+- Não vende, aluga nem compartilha dados com ninguém. O único serviço externo é o iCloud da Apple, que guarda a obra.
+
+Se você permitir nos Ajustes do aparelho, a Apple pode compartilhar conosco relatórios de falhas e números de uso sem identificação. Isso é da Apple, e você liga ou desliga lá.
+
+### Seus direitos e como apagar
+
+Você pode pedir informações sobre os dados tratados, correção ou exclusão, como preveem a Lei Geral de Proteção de Dados (LGPD) e leis equivalentes, pelo contato no fim desta página.
+
+Como os registros não levam seu nome e cada visita tem um código sorteado, não há como achar o que é seu entre o que é de todos: tudo passa a fazer parte da obra compartilhada.
+
+Se preferir que a sua visita não deixe rastro, entre na obra sem estar conectado ao iCloud: você vê a obra, e nada é gravado. Apagar o app remove as marcas dos tutoriais.
+
+### Crianças
+
+Geoniric não coleta dados pessoais de ninguém, incluindo crianças.
+
+### Contato
+
+Dúvidas e pedidos: marlonmribas.ms@gmail.com.
